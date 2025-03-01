@@ -3,7 +3,7 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["1211510829283934209", ""], 
   mongodbUri : "mongodb+srv://nakhunux:mongodb@cluster0.ydey4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
@@ -16,9 +16,9 @@ module.exports = {
   nodes: [
      {
       name: "XX",
-      password: "enteryourcustompass",
-      host: "180.188.226.76",
-      port:  7019,
+      password: "saher.inzeworld.com",
+      host: "lava.inzeworld.com",
+      port:  3128,
       secure: false
     }
   ]
